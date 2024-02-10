@@ -10,7 +10,6 @@ import java.util.Timer;
 @Component
 @NoArgsConstructor
 public class TaskManager {
-
     public void registerTasks() {
         Logger logger = LoggerFactory.getLogger(TaskManager.class);
 
