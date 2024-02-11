@@ -2,6 +2,7 @@ package com.chancehl.ArtistMetadataIndex.tasks;
 
 import com.chancehl.ArtistMetadataIndex.interfaces.ArtistRepository;
 import com.chancehl.ArtistMetadataIndex.models.database.Artist;
+import io.github.cdimascio.dotenv.Dotenv;
 import lombok.NoArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
